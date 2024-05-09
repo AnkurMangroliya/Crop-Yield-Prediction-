@@ -1,4 +1,4 @@
-# CropYieldPrediction
+# Crop Yield Prediction
 This project aims to design, develop and implement the training model by using different inputs data. The machine will able to learn the features and extract the crop yield from the data by using data mining and data science techniques.
 
 Algorithms used in this project:
@@ -31,5 +31,4 @@ Accuracy of 90.1% for Test set and 98% for Train set (no case of underfit/overfi
 5. RMSE (train)=  44.51231769473379
 6. RMSE (test)=  96.53442802748599
 =======
-# Crop-Yield-Prediction-
->>>>>>> origin/main
+# Crop Yield Prediction
