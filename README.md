@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CropYieldPrediction
 This project aims to design, develop and implement the training model by using different inputs data. The machine will able to learn the features and extract the crop yield from the data by using data mining and data science techniques.
 
